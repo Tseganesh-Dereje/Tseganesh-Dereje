@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tseganesh-Dereje
-- 👀 I’m interested in androis studio and codeing
+- 👀 I’m interested in android studio and coding
 - 🌱 I’m currently learning kotlin and HTML
 - 💞️ I’m looking to collaborate on some coding
 - 📫 How to reach me through my email:tsegadt@gmail.com
